@@ -1,6 +1,6 @@
 # lazy-load-images.js
 
-![lazy-load-images](https://github.com/codefacebook/lazy-load-images.js/blob/master/images/lazy-load-images.gif)
+![lazy-load-images](https://github.com/codefacebook/lazy-load-images.js/blob/master/images/lazy-load-images.png)
 
 lazy-load-images.js is a javascript library that defers loading of non-critical resources at page load time. Instead, these non-critical resources are loaded at the moment of need. Where images are concerned here.
 
