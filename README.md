@@ -4,7 +4,7 @@
 
 lazy-load-images.js is a javascript library that defers loading of non-critical resources at page load time. Instead, these non-critical resources are loaded at the moment of need. Where images are concerned here.
 
-We'd love to have your helping hand on contributions to react-chartjsx by forking and sending a pull request!
+We'd love to have your helping hand on contributions to lazy-load-images.js by forking and sending a pull request!
 
 ## Features
 
@@ -85,7 +85,7 @@ Click [here](https://github.com/codefacebook/lazy-load-images.js/blob/master/laz
 
 ## Contributing
 
-We'd love to have your helping hand on contributions to react-chartjsx by forking and sending a pull request!
+We'd love to have your helping hand on contributions to lazy-load-images.js by forking and sending a pull request!
 
 Your contributions are heartily ♡ welcome, recognized and appreciated. (✿◠‿◠)
 
