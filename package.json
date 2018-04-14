@@ -1,0 +1,19 @@
+{
+  "name": "lazy-load-images.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/js/lazy-load-images.min.js",
+  "style": "lib/css/lazy-load-images.min.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rimraf": "^0.2.2",
+    "gulp-uglify": "^3.0.0"
+  }
+}
