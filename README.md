@@ -14,6 +14,10 @@ We'd love to have your helping hand on contributions to lazy-load-images.js by f
 * Responsive images
 * Supports all modern browsers Chrome, Firefox, Safari, (IE10+), ... etc.
 
+## Demo
+
+Let take a look the live [lazy-load-images.js](https://lazyloadimages.github.io/ "lazy-load-images.js") demo.
+
 ## Installation
 
 The page must load the CSS and JavaScript.
