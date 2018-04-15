@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>lazy-load-images.js</title>
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="css/lazy-load-images.min.css">
+</head>
+<body>
+<main>
+  <article>
+    <h1>lazy-load-images.js demo</h1>
+
+    <h2>Basic</h2>
+
+    <a href="https://raw.githubusercontent.com/codefacebook/lazy-load-images.js/master/images/cambodia-angkor-elephant.jpg" class="lazy-load replace">
+      <img src="https://raw.githubusercontent.com/codefacebook/lazy-load-images.js/master/images/cambodia-angkor-elephant.jpg" class="preview" alt="Cambodia Angkorwat" />
+    </a>
+
+    <h2>Retain the link</h2>
+
+    <a href="http://geekhmer.github.io" data-href="https://raw.githubusercontent.com/codefacebook/lazy-load-images.js/master/images/cambodia-angkor-elephant.jpg" class="lazy-load replace">
+      <img src="https://raw.githubusercontent.com/codefacebook/lazy-load-images.js/master/images/cambodia-angkor-elephant.jpg" class="preview" alt="Cambodia Angkorwat" />
+    </a>
+
+    <h2>Responsive</h2>
+
+    <a href="https://raw.githubusercontent.com/codefacebook/lazy-load-images.js/master/images/cambodia-angkor.jpg" data-srcset="https://raw.githubusercontent.com/codefacebook/lazy-load-images.js/master/images/cambodia-angkor.jpg 400w, https://raw.githubusercontent.com/codefacebook/lazy-load-images.js/master/images/cambodia-angkor.jpg 800w, https://raw.githubusercontent.com/codefacebook/lazy-load-images.js/master/images/cambodia-angkor.jpg 1600w" class="primary lazy-load replace">
+      <img src="https://raw.githubusercontent.com/codefacebook/lazy-load-images.js/master/images/cambodia-angkor.jpg" class="preview" alt="bridge" />
+    </a>
+  </article>
+
+</main>
+  <script src="js/lazy-load-images.min.js"></script>
+</body>
+</html>
