@@ -16,7 +16,7 @@ We'd love to have your helping hand on contributions to lazy-load-images.js by f
 
 ## Demo
 
-Let take a look the live [lazy-load-images.js demo](https://lazyloadimages.github.io/ "lazy-load-images.js").
+Let take a look the live [lazy-load-images.js demo](https://lazyloadimages.github.io/ "lazy-load-images.js"). And download the library [here](https://github.com/codefacebook/lazy-load-images.js/blob/master/lazy-load-images.js.zip "Source").
 
 ## Installation
 
@@ -85,7 +85,7 @@ Responsive images can be defined in the container link/element using the `data-s
 
 ## Source
 
-Click [here](https://github.com/codefacebook/lazy-load-images.js/blob/master/lazy-load-images.js.zip "Source") to download source.
+Click [here](https://github.com/codefacebook/lazy-load-images.js/blob/master/lazy-load-images.js.zip "Source") to download the library.
 
 ## Contributing
 
